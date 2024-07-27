@@ -30,7 +30,7 @@ h2 {
 
 .App {
 
-  height: 10%;
+  height: 100%;
   padding: 0 17% 10% 17%;
   background-image: url('./background.jpg');
   background-size: cover;
